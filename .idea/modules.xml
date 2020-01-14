@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator.iml" filepath="$PROJECT_DIR$/code-generator/code-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-api/code-generator-api.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-api/code-generator-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code-generator-demo.iml" filepath="$PROJECT_DIR$/.idea/code-generator-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-model/code-generator-model.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-model/code-generator-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-service/code-generator-service.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-service/code-generator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-starter/code-generator-starter.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-starter/code-generator-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-starter-web/code-generator-starter-web.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-starter-web/code-generator-starter-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator-web/code-generator-web.iml" filepath="$PROJECT_DIR$/code-generator/code-generator-web/code-generator-web.iml" />
+    </modules>
+  </component>
+</project>
